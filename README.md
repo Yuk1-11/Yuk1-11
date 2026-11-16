@@ -91,6 +91,21 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
 - **GitHub Education** — Member
 
 <p align="center">
+  <img src="./assets/aws-academy.png"
+       alt="AWS Academy"
+       height="80" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/github-education.png"
+       alt="GitHub Education"
+       height="80" />
+</p>
+
+<p align="center">
+  <b>AWS Academy</b>
+  &nbsp; | &nbsp;
+  <b>GitHub Education</b>
+</p>
+<p align="center">
   <img
     src="./assets/miyazaki-university-badge.png"
     alt="Miyazaki University Digital Academy Badge"
