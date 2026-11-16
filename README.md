@@ -117,17 +117,6 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
 
 ## `$ git status`
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yuk1-11&show_icons=true&theme=transparent&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuk1-11&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-  />
-</p>
-
 🟢 **Currently Working On**
 - Preparing for the Fundamental Information Technology Engineer Examination
 - Learning AWS Cloud Architecture
