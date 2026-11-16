@@ -119,14 +119,31 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Yuk1-11&show_icons=true&theme=transparent&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuk1-11&layout=compact&theme=transparent&hide_border=true"
     height="165"
   />
 </p>
+
+🟢 **Currently Working On**
+- Preparing for the Fundamental Information Technology Engineer Examination
+- Learning AWS Cloud Architecture
+- Exploring Cybersecurity and AI Security
+
+🔵 **Currently Building**
+- Personal Development Projects
+- Cloud-based Applications using AWS and Firebase
+
+🟡 **Currently Exploring**
+- Linux and System Programming
+- WebAssembly
+- Information Security
+
+> Always learning, always building, always improving.
+
 
 ---
 
@@ -134,6 +151,3 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
   <i>Learning. Building. Securing.</i>
 </p>
 
-<p align="center">
-  <i>Always exploring new technologies and challenges.</i>
-</p>
