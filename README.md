@@ -98,40 +98,66 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/project-architecture-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/project-architecture-light.svg" />
-    <img alt="Project System Architecture" src="./assets/project-architecture-dark.svg" />
+    <img src="./assets/project-architecture-dark.svg" alt="Project System Architecture" width="100%" />
   </picture>
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/project-healthshare.jpg" alt="HealthShare — Apple Watch, iOS, and SQL" width="100%" />
-      <h4>HealthShare</h4>
-      <p>An information-sharing system connecting <b>Apple Watch</b>, <b>iOS</b>, and <b>SQL</b> for structured health telemetry sync.</p>
-      <code>Swift</code> · <code>WatchKit</code> · <code>iOS</code> · <code>SQL</code>
+      <p align="center">
+        <img src="./assets/project-healthshare.jpg" alt="HealthShare" width="100%" />
+      </p>
+      <h3>HealthShare</h3>
+      <p>Health data sharing platform connecting Apple Watch and iOS devices, enabling structured health telemetry synchronization.</p>
+      <p>
+        <code>Swift</code>
+        <code>WatchKit</code>
+        <code>iOS</code>
+        <code>Firebase</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-motoblog.jpg" alt="motoblog — Motorcycle Rider Community App" width="100%" />
-      <h4>motoblog</h4>
-      <p>A web application designed for <b>motorcycle riders</b>, featuring rider profiles, community interactions, and touring functions.</p>
-      <code>TypeScript</code> · <code>Web App</code> · <code>Community</code>
+      <p align="center">
+        <img src="./assets/project-motoblog.jpg" alt="motoblog" width="100%" />
+      </p>
+      <h3>motoblog</h3>
+      <p>A motorcycle community web application featuring rider profiles, social interactions, and touring-related functions.</p>
+      <p>
+        <code>TypeScript</code>
+        <code>Vite</code>
+        <code>Firebase</code>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>School Cafe Ordering System</h4>
-      <p>A real-time web-based ordering system built with <b>Vite</b> and <b>Firebase</b> to manage school event orders cleanly.</p>
-      <code>Vite</code> · <code>TypeScript</code> · <code>Firebase</code>
+      <p align="center">
+        <img src="./assets/project-cafe.jpg" alt="School Cafe Ordering System" width="100%" />
+      </p>
+      <h3>School Cafe Ordering System</h3>
+      <p>A real-time ordering platform designed for school events, connecting customer orders with staff through a web-based system.</p>
+      <p>
+        <code>JavaScript</code>
+        <code>Vite</code>
+        <code>Firebase</code>
+        <code>Firestore</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-digital-meter.jpg" alt="Custom Digital Meter — Motorcycle Instrument Cluster" width="100%" />
-      <h4>Custom Digital Meter</h4>
-      <p>Exploring the design and firmware of a <b>custom digital instrument cluster</b> for motorcycles with crisp gauge telemetry.</p>
-      <code>C++</code> · <code>Embedded</code> · <code>Telemetry UI</code>
+      <p align="center">
+        <img src="./assets/project-digital-meter.jpg" alt="Custom Digital Meter" width="100%" />
+      </p>
+      <h3>Custom Digital Meter</h3>
+      <p>Exploring the development of a custom motorcycle instrument cluster, combining embedded programming with a lightweight digital interface.</p>
+      <p>
+        <code>C++</code>
+        <code>Embedded</code>
+        <code>WebAssembly</code>
+      </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Certifications & Education Roadmap
