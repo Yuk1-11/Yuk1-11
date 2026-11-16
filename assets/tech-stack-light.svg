@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" fill="none">
+  <rect width="760" height="390" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5" />
+  <text x="32" y="38" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="17" font-weight="700">Technical Stack &amp; Ecosystem Allocation</text>
+  <text x="32" y="58" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="12">6 Core Languages · 7 Cloud, OS &amp; Development Platforms</text>
+  <line x1="32" y1="72" x2="728" y2="72" stroke="#d0d7de" stroke-width="1" />
+
+  <line x1="380" y1="84" x2="380" y2="366" stroke="#d0d7de" stroke-width="1" />
+  
+    <g>
+      <text x="32" y="104" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">TypeScript</text>
+      <text x="150" y="104" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Web Apps & Tooling</text>
+      <text x="352" y="104" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">88%</text>
+      <rect x="32" y="113" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="113" width="281" height="7" rx="3.5" fill="#10b981" />
+    </g>
+    <g>
+      <text x="32" y="148" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">C++</text>
+      <text x="150" y="148" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Systems & Embedded</text>
+      <text x="352" y="148" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">82%</text>
+      <rect x="32" y="157" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="157" width="263" height="7" rx="3.5" fill="#10b981" />
+    </g>
+    <g>
+      <text x="32" y="192" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Python</text>
+      <text x="150" y="192" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Security & Automation</text>
+      <text x="352" y="192" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">84%</text>
+      <rect x="32" y="201" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="201" width="269" height="7" rx="3.5" fill="#10b981" />
+    </g>
+    <g>
+      <text x="32" y="236" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">JavaScript</text>
+      <text x="150" y="236" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Frontend & Runtime</text>
+      <text x="352" y="236" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">86%</text>
+      <rect x="32" y="245" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="245" width="275" height="7" rx="3.5" fill="#10b981" />
+    </g>
+    <g>
+      <text x="32" y="280" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Swift</text>
+      <text x="150" y="280" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">iOS & Apple Watch</text>
+      <text x="352" y="280" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">74%</text>
+      <rect x="32" y="289" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="289" width="237" height="7" rx="3.5" fill="#10b981" />
+    </g>
+    <g>
+      <text x="32" y="324" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Rust</text>
+      <text x="150" y="324" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Memory-Safe Systems</text>
+      <text x="352" y="324" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">68%</text>
+      <rect x="32" y="333" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="32" y="333" width="217" height="7" rx="3.5" fill="#10b981" />
+    </g>
+  
+    <g>
+      <text x="408" y="104" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">AWS</text>
+      <text x="526" y="104" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Cloud Architecture</text>
+      <text x="728" y="104" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">82%</text>
+      <rect x="408" y="113" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="113" width="263" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+    <g>
+      <text x="408" y="148" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Firebase</text>
+      <text x="526" y="148" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Realtime DB & Auth</text>
+      <text x="728" y="148" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">86%</text>
+      <rect x="408" y="157" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="157" width="275" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+    <g>
+      <text x="408" y="192" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Linux</text>
+      <text x="526" y="192" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">OS & Shell Environment</text>
+      <text x="728" y="192" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">80%</text>
+      <rect x="408" y="201" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="201" width="256" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+    <g>
+      <text x="408" y="236" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Vite</text>
+      <text x="526" y="236" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Modern Web Bundling</text>
+      <text x="728" y="236" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">88%</text>
+      <rect x="408" y="245" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="245" width="281" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+    <g>
+      <text x="408" y="280" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">Git</text>
+      <text x="526" y="280" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Version Control</text>
+      <text x="728" y="280" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">88%</text>
+      <rect x="408" y="289" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="289" width="281" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+    <g>
+      <text x="408" y="324" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600">GitHub</text>
+      <text x="526" y="324" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Collaboration & CI</text>
+      <text x="728" y="324" text-anchor="end" fill="#656d76" font-family="'JetBrains Mono', monospace" font-size="11">90%</text>
+      <rect x="408" y="333" width="320" height="7" rx="3.5" fill="#eaeef2" />
+      <rect x="408" y="333" width="288" height="7" rx="3.5" fill="#3b82f6" />
+    </g>
+</svg>
