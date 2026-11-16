@@ -91,11 +91,11 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
 - **GitHub Education** — Member
 
 <p align="center">
-  <img src="./assets/aws-academy.png"
+  <img src="https://images.credly.com/size/680x680/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob"
        alt="AWS Academy"
        height="80" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/github-education.png"
+  <img src="https://images.openai.com/static-rsc-4/Nd5_G3cXPSIbBLp77KfDHBg1_553AWhxmWN38qLfkp_sHJ-l9WkiozMYGJB47O7oX0GF4sLaQkvEhwBpwBAIfasopd2gm-lxljW52djiwh_wjdWsA5XvmRuLrc4AHUsoZsgLt_v0QJg2W08Qgzs1fTycdDo9IJte6tVRlqCd7evU3glxGB6FcpnzeAqQXNKi?purpose=fullsize"
        alt="GitHub Education"
        height="80" />
 </p>
