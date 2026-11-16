@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="320" viewBox="0 0 1160 320" fill="none">
+  <rect width="1160" height="320" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5" />
+  <text x="28" y="38" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="17" font-weight="700">Project System Architecture Overview</text>
+  <text x="28" y="56" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="12">End-to-end data &amp; control flows across mobile, web, cloud, and embedded builds</text>
+  
+      <g>
+        <rect x="28" y="72" width="264" height="224" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2" />
+        <text x="50" y="98" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700">HealthShare</text>
+        <text x="50" y="113" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Mobile & SQL Bridge</text>
+        
+          <rect x="50" y="122" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="68" cy="140" r="4" fill="#10b981" />
+          <text x="82" y="144" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Apple Watch</text>
+          <path d="M160 158 L160 174" stroke="#10b981" stroke-width="1.5" />
+                 <polygon points="156,170 164,170 160,176" fill="#10b981" />
+          <rect x="50" y="178" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="68" cy="196" r="4" fill="#10b981" />
+          <text x="82" y="200" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">iOS App</text>
+          <path d="M160 214 L160 230" stroke="#10b981" stroke-width="1.5" />
+                 <polygon points="156,226 164,226 160,232" fill="#10b981" />
+          <rect x="50" y="234" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="68" cy="252" r="4" fill="#10b981" />
+          <text x="82" y="256" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">SQL Database</text>
+          
+      </g>
+      <g>
+        <rect x="308" y="72" width="264" height="224" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2" />
+        <text x="330" y="98" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700">motoblog</text>
+        <text x="330" y="113" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Rider Community Platform</text>
+        
+          <rect x="330" y="122" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="348" cy="140" r="4" fill="#3b82f6" />
+          <text x="362" y="144" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Rider Auth</text>
+          <path d="M440 158 L440 174" stroke="#3b82f6" stroke-width="1.5" />
+                 <polygon points="436,170 444,170 440,176" fill="#3b82f6" />
+          <rect x="330" y="178" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="348" cy="196" r="4" fill="#3b82f6" />
+          <text x="362" y="200" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Touring Logs</text>
+          <path d="M440 214 L440 230" stroke="#3b82f6" stroke-width="1.5" />
+                 <polygon points="436,226 444,226 440,232" fill="#3b82f6" />
+          <rect x="330" y="234" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="348" cy="252" r="4" fill="#3b82f6" />
+          <text x="362" y="256" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Social Feed</text>
+          
+      </g>
+      <g>
+        <rect x="588" y="72" width="264" height="224" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2" />
+        <text x="610" y="98" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700">School Cafe System</text>
+        <text x="610" y="113" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Realtime Event Ordering</text>
+        
+          <rect x="610" y="122" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="628" cy="140" r="4" fill="#10b981" />
+          <text x="642" y="144" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Vite Frontend</text>
+          <path d="M720 158 L720 174" stroke="#10b981" stroke-width="1.5" />
+                 <polygon points="716,170 724,170 720,176" fill="#10b981" />
+          <rect x="610" y="178" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="628" cy="196" r="4" fill="#10b981" />
+          <text x="642" y="200" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Firebase Auth</text>
+          <path d="M720 214 L720 230" stroke="#10b981" stroke-width="1.5" />
+                 <polygon points="716,226 724,226 720,232" fill="#10b981" />
+          <rect x="610" y="234" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="628" cy="252" r="4" fill="#10b981" />
+          <text x="642" y="256" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Firestore Queue</text>
+          
+      </g>
+      <g>
+        <rect x="868" y="72" width="264" height="224" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.2" />
+        <text x="890" y="98" fill="#1f2328" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700">Custom Digital Meter</text>
+        <text x="890" y="113" fill="#656d76" font-family="system-ui, -apple-system, sans-serif" font-size="11">Motorcycle Telemetry Cluster</text>
+        
+          <rect x="890" y="122" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="908" cy="140" r="4" fill="#3b82f6" />
+          <text x="922" y="144" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">Sensor Bus</text>
+          <path d="M1000 158 L1000 174" stroke="#3b82f6" stroke-width="1.5" />
+                 <polygon points="996,170 1004,170 1000,176" fill="#3b82f6" />
+          <rect x="890" y="178" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="908" cy="196" r="4" fill="#3b82f6" />
+          <text x="922" y="200" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">C++ Controller</text>
+          <path d="M1000 214 L1000 230" stroke="#3b82f6" stroke-width="1.5" />
+                 <polygon points="996,226 1004,226 1000,232" fill="#3b82f6" />
+          <rect x="890" y="234" width="220" height="36" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+          <circle cx="908" cy="252" r="4" fill="#3b82f6" />
+          <text x="922" y="256" fill="#1f2328" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">OLED Display</text>
+          
+      </g>
+</svg>
