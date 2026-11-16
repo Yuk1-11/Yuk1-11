@@ -82,9 +82,13 @@ Exploring the development of a custom digital instrument cluster for a motorcycl
 
 ## `$ cat education.txt`
 
-### Miyazaki University Digital Academy
 
-**3rd Cohort Graduate**
+## Education & Developer Programs
+
+- **Miyazaki University Digital Academy** — 3rd Cohort Graduate
+- **AWS Academy** — Cloud Architecting (ACA)
+- **AWS Academy Learner Lab** — Hands-on Cloud Learning
+- **GitHub Education** — Member
 
 <p align="center">
   <img
